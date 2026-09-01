@@ -1,0 +1,17 @@
+{
+  "@@locale": "ar",
+  "onboardingTitle1": "اكتشف الفرص",
+  "onboardingDesc1": "اعثر على الوظيفة المثالية التي تتناسب مع مهاراتك واهتماماتك.",
+
+  "onboardingTitle2": "قدّم بسهولة",
+  "onboardingDesc2": "قدّم على الوظائف بضغطة زر واحدة.",
+
+  "onboardingTitle3": "احفظ مفضلاتك",
+  "onboardingDesc3": "احفظ الوظائف التي تعجبك للرجوع إليها لاحقًا.",
+
+  "lightMode": "الوضع الفاتح",
+  "darkMode": "الوضع الداكن",
+  "getStarted": "ابدأ الآن",
+
+  "welcomeMessage": "!مرحباً بك في التطبيق"
+}

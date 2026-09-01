@@ -1,0 +1,47 @@
+{
+  "@@locale": "en",
+  "onboardingTitle1": "Discover Opportunities",
+  "@onboardingTitle1": {
+    "description": "Title for the first onboarding screen"
+  },
+  "onboardingDesc1": "Find the perfect job that matches your skills and interests.",
+  "@onboardingDesc1": {
+    "description": "Description for the first onboarding screen"
+  },
+
+  "onboardingTitle2": "Apply Easily",
+  "@onboardingTitle2": {
+    "description": "Title for the second onboarding screen"
+  },
+  "onboardingDesc2": "Apply to jobs with just a few clicks.",
+  "@onboardingDesc2": {
+    "description": "Description for the second onboarding screen"
+  },
+
+  "onboardingTitle3": "Save Your Favorites",
+  "@onboardingTitle3": {
+    "description": "Title for the third onboarding screen"
+  },
+  "onboardingDesc3": "Save jobs you like for later.",
+  "@onboardingDesc3": {
+    "description": "Description for the third onboarding screen"
+  },
+
+  "lightMode": "Light Mode",
+  "@lightMode": {
+    "description": "Label for light mode theme switch"
+  },
+  "darkMode": "Dark Mode",
+  "@darkMode": {
+    "description": "Label for dark mode theme switch"
+  },
+  "getStarted": "Get Started",
+  "@getStarted": {
+    "description": "Button text to navigate to the home screen"
+  },
+
+  "welcomeMessage": "Welcome to the App!",
+  "@welcomeMessage": {
+    "description": "Welcome header title"
+  }
+}
